@@ -7,7 +7,7 @@
         "psr-4": { "Creakiwi\\WhatsNext\\": "src/" }
     },
     "require": {
-        "php": ">=5.5.5",
+        "php": ">=5.4",
         "symfony/symfony": "2.6.*",
         "doctrine/orm": "~2.2,>=2.2.3,<2.5",
         "doctrine/dbal": "<2.5",
